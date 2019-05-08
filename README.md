@@ -44,5 +44,19 @@ and anomaly detection models. But we wanted to show our effort anyway!
 
 CX1015 18/19 SEM 2 MINI-PROJECT GROUP 6
 Callista Chang 	| U1821324G
-Ooi Yuxuan 	    | U1822211J
-Wu Sibing(Me) 	| U1822553G
+Ooi Yuxuan 	| U1822211J
+Wu Sibing (me) 	| U1822553G
+
+Contributions
+Callista: 
+	a. Data Cleaning
+	b. Data Visualisation (Plotly & Seaborn)
+	c. Slides
+Yuxuan:
+	a. Data Visualisation (Bokeh)
+	b. Slides
+Sibing (me):
+	a. Machine Learning Models
+	b. 2020 Medal Tally Prediction
+
+
